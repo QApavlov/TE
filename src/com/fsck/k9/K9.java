@@ -157,7 +157,7 @@ public class K9 extends Application {
      * POP3 servers?
      */
 
-    public static boolean DEBUG_PROTOCOL_POP3 = true;
+    public atic boolean DEBUG_PROTOCOL_POP3 = true;
 
     /**
      * Should K-9 log the conversation it has over the wire with

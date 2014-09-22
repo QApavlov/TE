@@ -161,7 +161,8 @@ public class K9 extends Application {
 
     /**
      * Should K-9 log the conversation it has over the wire with
-     * WebDAV servers?dd
+     * WebDAV servers?
+     * Email test
      */
 
     public static boolean DEBUG_PROTOCOL_WEBDAV = true;
